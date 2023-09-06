@@ -1,0 +1,25 @@
+(setq a '(+ 3 2))
+a
+(eval a)
+
+(cons 'a '(b c d))
+
+(setq a '(1 2 3 4))
+
+(car a)
+
+(cdr a)
+
+(cddr a)
+
+(cdddr a)
+
+(setq a '((1 2 3) a b c))
+
+(car a)
+
+(caar a)
+
+(setq b '(1 2 3 4 (a b c) (c d e)))
+
+(setq c '((((a b c) 5) 6) 7 (8 9 10)))
