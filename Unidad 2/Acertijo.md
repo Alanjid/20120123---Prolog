@@ -1,6 +1,6 @@
 El britanico vive en la casa roja.
 
-
+Ejemplo
 
 El sueco tiene un perro como mascota.
 El danes toma te.
